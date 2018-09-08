@@ -1,0 +1,1 @@
+Right click the Homework.py file once it is on your computer and edit with notepad. Change the settings. Once you are done, save the file.
